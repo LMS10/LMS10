@@ -1,4 +1,11 @@
-## Hi there 👋
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=2300&pause=1000&color=E33C82&center=true&vCenter=true&width=435&lines=Hi%2C+there!+I'm+Minseo.)](https://git.io/typing-svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LMS10&show_icons=true&theme=radical&icon_color=E33C82)
+
+</div>
 
 <!--
 **LMS10/LMS10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
